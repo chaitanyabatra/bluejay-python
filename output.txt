@@ -1,0 +1,10 @@
+chaitanyabatra@Chaitanyas-MacBook-Pro ~ % /usr/local/bin/python3 /Users/chaitanyabatra/assignment1.py
+
+Employees that satisfy all three conditions are :  [] 
+ 
+Employees that have less than 10 hours but more than 1 hour are between shifts :  [['CaMaXaWE, CeghaW', 'WFS000153'], ['Xee, XaCar', 'WFS000200'], ['Xee, XaCar', 'WFS000200'], ['Xee, XaCar', 'WFS000200'], ['De Xa Cerda, IgWaciE', 'WFS000318'], ['MraW, WiXXiaC Ha', 'WFS000345'], ['MraW, WiXXiaC Ha', 'WFS000345'], ['CEreira Jr, JEse', 'WFS000456'], ['CEMMa, Jessica', 'WFS000503'], ['CEMMa, Jessica', 'WFS000503'], ['DeXgadiXXE REdarMe, ChrisMiaW S', 'WFS000523'], ['HaCiXMEW, DeaWMe DevEW', 'WFS000536'], ['HAWMer, ViWceWM De PaAX', 'WFS000538']] 
+ 
+Employees that worked for more than 14 hours are :  [['DeXgadiXXE REdarMe, ChrisMiaW S', 'WFS000523']] 
+ 
+Employees that worked 7 consecutive days are :  [] 
+ 
